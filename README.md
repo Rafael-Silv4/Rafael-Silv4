@@ -8,24 +8,33 @@ Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado pela arte de cr
 
 Minha paixão pela programação floresceu ao longo do tempo, e agora estou focado em criar aplicações inovadoras e impactantes. Além de ser um entusiasta de tecnologias front-end, também estou expandindo meu conhecimento no back-end. Meus projetos são reflexo da minha busca por um equilíbrio entre estética, usabilidade e performance.
 
-## 💻 Habilidades
+## 🛠 Tecnologias e Ferramentas
 
+### Front-End:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=flat&logo=react&logoColor=white)
 
-## Front-End:
+### Back-End:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-React.js: Criação de interfaces dinâmicas e responsivas, utilizando hooks, gerenciamento de estado e manipulação de eventos.
-Next.js: Desenvolvimento de aplicações com renderização no lado do servidor (SSR) e geração de sites estáticos.
-HTML5 & CSS3: Estruturação e estilização de páginas web com foco em acessibilidade e responsividade.
-Tailwind CSS: Utilização de classes utilitárias para a criação rápida e personalizada de layouts e designs.
-TypeScript: Adição de tipagem estática ao JavaScript para garantir maior segurança e escalabilidade nos projetos.
+### Ferramentas e Bibliotecas:
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Beekeeper Studio](https://img.shields.io/badge/-Beekeeper%20Studio-4B8BBE?style=flat&logo=beekeeper&logoColor=white)
 
-
-## Back-End:
-
-Node.js: Desenvolvimento de APIs e servidores utilizando JavaScript/TypeScript no back-end.
-MongoDB: Banco de dados NoSQL para armazenamento flexível e escalável de dados.
-Express.js: Framework para Node.js para a criação de APIs RESTful e middleware.
-JWT: Implementação de autenticação segura em aplicativos web com tokens JSON Web.
+### Linguagens:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 
 
 ## 🚀  Um pouco mais sobre o meu perfil:
