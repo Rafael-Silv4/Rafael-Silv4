@@ -1,10 +1,8 @@
 ## 👋 Olá, sou o Rafael!
 
-
 Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado pela arte de criar soluções digitais que fazem a diferença. Minha jornada no mundo da programação começou de forma repentina, mas foi instantaneamente envolvente. Desde então, venho me aprofundando no universo do desenvolvimento web, explorando novas tecnologias, frameworks e desafios que me permitem crescer a cada dia.
 
 ## 🌱 Minha Jornada na Programação
-
 
 Minha paixão pela programação floresceu ao longo do tempo, e agora estou focado em criar aplicações inovadoras e impactantes. Além de ser um entusiasta de tecnologias front-end, também estou expandindo meu conhecimento no back-end. Meus projetos são reflexo da minha busca por um equilíbrio entre estética, usabilidade e performance.
 
@@ -36,11 +34,12 @@ Minha paixão pela programação floresceu ao longo do tempo, e agora estou foca
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 
-
 ## 🚀  Um pouco mais sobre o meu perfil:
 ![Rafael-Silv4 GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSilva&show_icons=true&theme=radical)
 
+## 🎶 Música que escutei recentemente:
 
-𝑴𝒖𝒔𝒊𝒄𝒂𝒔 𝒆𝒔𝒄𝒖𝒕𝒂𝒅𝒂𝒔 𝒓𝒆𝒄𝒆𝒏𝒕𝒆𝒎𝒆𝒏𝒕𝒆:
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=rafasilva_50&count=1" alt="Música recente" style="width: 300px; border-radius: 10px; border: 2px solid #ccc; margin-top: 20px;">
+</div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rafasilva_50)
